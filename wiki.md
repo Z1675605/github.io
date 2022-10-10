@@ -23,6 +23,7 @@ Some of the major rivers are the **Paraná**, **Uruguay** which join to form the
 
 ## History
 [![Colonial Argentina](/images/colonial.jpg)](https://www.chimuadventures.com/blog/2016/11/history-of-argentina/)
+
 Until the period of European colonization, Argentina was relatively sparsely populated by a *wide number of diverse cultures with different social organizations*.
 
 The first group are **basic** hunters and food gatherers without development of pottery, such as the [Selknam](https://en.wikipedia.org/wiki/Selk%27nam_people) and [Yaghan](https://en.wikipedia.org/wiki/Yahgan_people) in the extreme south. The second group are **advanced** hunters and food gatherers which include the [Puelche](https://en.wikipedia.org/wiki/Puelche_people), [Querandí](https://en.wikipedia.org/wiki/Querand%C3%AD) and Serranos in the centre-east; and the [Tehuelche](https://en.wikipedia.org/wiki/Tehuelche_people) in the south. The last group are **farmers** with pottery, like the [Charrúa](https://en.wikipedia.org/wiki/Charr%C3%BAa), [Minuane](https://en.wikipedia.org/wiki/Charr%C3%BAa) and [Guaraní](https://en.wikipedia.org/wiki/Guaran%C3%AD_people) in the northeast.
