@@ -7,8 +7,8 @@
 ### Table of contents
 1. [Geography](#geography)
 2. [History](#history)
-  1. [European Colonization](#european-colonization)
-  2. [Post European/Independance](#post-europeanindependance)
+    1. [European Colonization](#european-colonization)
+    2. [Post European/Independance](#post-europeanindependance)
 3. [Economy and Trade](#economy-and-trade)
 4. [See Also](#see-also)
 5. [References](#references)
